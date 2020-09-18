@@ -1,4 +1,4 @@
-# weatherClassification
+# WeatherClassification
 Decision Tree ML algorithm for Weather Classification Algorithm in Austin, TX
 
 Computer-based models have become incredibly powerful to the field of meteorology for weather forecasting tools, both in the short and long terms. In simple terms, forecasting decisions are made based on collections of past and present quantitative data. This process has existed for centuries, yet continues to evolve in parallel with our scientific boundaries. 
